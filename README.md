@@ -1,4 +1,8 @@
-## Hi there 👋
+
+# 👋 Hi, I’m Paul Tuccinardi
+### 🎯 About Me
+
+I’m a Master of Data Science student (previously B.S. in Computer Science), passionate about turning data into actionable insights. I build end-to-end data products — from raw data ingestion and cleaning, to analytics, machine learning, and visualization dashboards — and I’m actively seeking full-time roles in Data Science, Machine Learning, or Analytics.
 
 <!--
 **PTucc327/PTucc327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
