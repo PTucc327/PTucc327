@@ -7,7 +7,6 @@
 I am a results-driven Data Scientist with a deep foundation in Computer Science and a passion for building production-grade AI solutions. My expertise spans the full data lifecycle—from engineering robust ETL pipelines to deploying high-accuracy deep learning models and Generative AI agents.
 
 ---
----
 ### 🚀 Technical Toolkit
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -48,7 +47,7 @@ I am a results-driven Data Scientist with a deep foundation in Computer Science 
 
 
 ### 📊 GitHub Stats
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PTucc327&show_icons=true&theme=radical)
+<!--![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PTucc327&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTucc327&layout=compact&theme=radical)
 
 ---
