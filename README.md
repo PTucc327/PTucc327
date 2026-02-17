@@ -48,7 +48,7 @@ I am a results-driven Data Scientist with a deep foundation in Computer Science 
 
 ### 📊 GitHub Stats
 
-![Paul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=PTucc327&show_icons=true&theme=radical&hide_rank=true&count_private=true)
+![Paul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=PTucc327&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PTucc327&layout=compact&theme=radical&hide=Jupyter%20Notebook,html,css,javascript)
 
